@@ -16,7 +16,7 @@
   <img align="center" alt="caffe0-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="caffe0-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="caffe0-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="right" alt="caffe0-Csharp" height="300" width="250" src="https://tenor.com/view/cute-adorable-charming-gif-13798021.gif">
+
 
 </div>
     
