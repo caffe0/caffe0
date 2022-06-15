@@ -1,9 +1,8 @@
 ### Oi! Tudo bem? Me chamo Cauã👋<h1>
 
- ✏ **Estou iniciando na programação de Jogos** 
-- 📚 Estudando C#, Python e Java.
-- 🤩 *Gosto de me inspirar em grandes projetos*
-- 😄 *Pronouns: ele/dele*
+ - **Estou iniciando na programação de Jogos** 
+-  Estudando C#, Python, Java, JavaScript, React, CSS, Html5 e SQL.
+-  *Gosto de me inspirar em grandes projetos*
 
   <div align="center">
   <a href="https://github.com/caffe0">
