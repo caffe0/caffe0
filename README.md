@@ -1,6 +1,6 @@
 ### Oi! Tudo bem? Me chamo Cauã👋<h1>
 
- - **Estou iniciando na programação de Jogos** 
+ - **Estou estudando a área da programação - UnB** 
 -  Estudando C#, Python, Java, JavaScript, React, CSS, Html5 e SQL.
 -  *Gosto de me inspirar em grandes projetos*
 
