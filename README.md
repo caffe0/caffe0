@@ -1,4 +1,4 @@
-### Oi! Tudo bem? Me chamo Cauã👋<h1>
+### <h1>Olá, seja bem vindo ao meu perfil. 😁</h1>
 
  - **Estou estudando a área da programação - UnB** 
 -  Estudando C#, Python, Java, JavaScript, React, CSS, Html5 e SQL.
@@ -6,8 +6,8 @@
 
   <div>
   <a href="https://github.com/caffe0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caffe0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caffe0&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=graywhite&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caffe0&layout=compact&langs_count=7&theme=graywhite"/>
     
     
 ##
