@@ -1,3 +1,4 @@
+![waving](https://capsule-render.vercel.app/api?type=wave&height=200&color=gradient&text=Cauã%20H.&section=header&fontColor=3C3C3C&animation=twinkling&fontAlignY=50&stroke=eeee&desc=Desenvolvedor%20Jr.&descAlignY=69)
 ### <h1>Olá, seja bem vindo ao meu perfil. 😁</h1>
 
  - **Estou estudando a área da programação - UnB** 
@@ -10,8 +11,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caffe0&layout=compact&langs_count=7&theme=graywhite"/>
     
     
-##
-  <div> 
-  <a href="https://instagram.com/caua_hmoura" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:cauahmourarodrigues@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-sirlucasm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cauãhenrique//)](https://www.linkedin.com/in/cauãhenrique/)
+[![Gmail Badge](https://img.shields.io/badge/-cauahmourarodrigues@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin)
+[![Instagram Badge](https://img.shields.io/badge/@caua_hmoura-%23E4405F.svg?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/cleitonnnnnn//)](https://www.instagram.com/caua_hmoura/)
