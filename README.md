@@ -13,6 +13,6 @@
     
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-sirlucasm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cauãhenrique//)](https://www.linkedin.com/in/cauãhenrique/)
+[![Linkedin Badge](https://img.shields.io/badge/-cauãhenrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cauãhenrique//)](https://www.linkedin.com/in/cauãhenrique/)
 [![Gmail Badge](https://img.shields.io/badge/-cauahmourarodrigues@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin)
 [![Instagram Badge](https://img.shields.io/badge/@caua_hmoura-%23E4405F.svg?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/cleitonnnnnn//)](https://www.instagram.com/caua_hmoura/)
